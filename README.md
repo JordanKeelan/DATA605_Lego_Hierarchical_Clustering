@@ -4,6 +4,7 @@ This project is part of the course "DATA 605 - Actionable Visualizations and Ana
 
 ## Data
 The Lego dataset used for this project contains information about the colors of Lego bricks, including the color name, RGB values, and number of parts in each color. The data was collected from Rebrickable.
+We used a filteres and aggregated subset of thsi data from mid-2017, provided by prof. Wesley Willett at the University of Calgary.
 
 ## Methodology
 The project will be implemented using the Python programming language and the scikit-learn library. The hierarchical clustering algorithm will be applied to the Lego color data to find groups of similar colors based on their RGB values. Different combinations of data columns, distance metrics, linkage functions, and distance thresholds will be tested to identify the best result. The results will be visualized using various plotting techniques.
